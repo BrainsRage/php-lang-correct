@@ -1,6 +1,7 @@
 {
     "name": "rin-nas/php-lang-correct",
     "description": "Automatic correction of the language for words in the text because of the wrong keyboard layout",
+    "version": "dev",
     "authors": [
         {
             "name": "Nasibullin Rinat",
