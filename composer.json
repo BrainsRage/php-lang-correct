@@ -1,7 +1,8 @@
 {
     "name": "lov3catch/php-lang-correct",
     "description": "Automatic correction of the language for words in the text because of the wrong keyboard layout",
-    "version": "dev",
+    "minimum-stability": "stable",
+    "prefer-stable": true,
     "authors": [
         {
             "name": "Nasibullin Rinat",
